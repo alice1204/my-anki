@@ -1,0 +1,92 @@
+.card {
+ font-family: segoe ui;
+ font-size: 20px;
+ text-align: center;
+ color: black;
+ line-height: 1.5;
+background-color: white;
+}
+
+.search {
+ font-family: segoe ui;
+ font-size: 15px;
+ color: black;
+ padding-bottom: 10px;
+}
+
+.word {
+color: #3e6cb4;
+ font-family: segoe ui;
+ font-size: 60px;
+text-transform: uppercase;
+}
+
+.ipa {
+ font-family: monospace;
+ font-size: 25px;
+color: black;
+}
+
+.definition {
+ text-align: center;
+ font-family: segoe ui;
+ font-size: 20px;
+ padding-top: 10px;
+ padding-bottom: 10px;
+}
+
+.sentence {
+ font-family: Arial;
+ font-size: 20px;
+ padding-left: 10px;
+ text-align: left;
+ border-left: 2.5px solid lightblue;
+}
+
+.link {
+ font-family: segoe ui;
+ font-size: 20px;
+ text-align: right;
+}
+
+.block {
+ display: inline-block;
+ padding-top: 10px;
+ padding-bottom: 10px;
+ padding-left: 10px;
+ padding-right: 10px;
+}
+
+.vietnamese {
+ text-align: left;
+}
+
+.example {
+ font-size: 100%;
+}
+
+.audio {
+padding-top: 10px;
+padding-bottom: 10px;
+}
+
+.button {
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+padding: 10px;
+margin: 10px;
+}
+
+.button {
+  color: #3e6cb4;
+  border: 2px solid #3e6cb4;
+}
+
+.button:hover {
+  background-color: #3e6cb4;
+  color: white;
+}
